@@ -1,2 +1,2 @@
-https://github.com/Priyanka-Manapuram/clone-spotify-html-css.git
+https://github.com/Priyanka-Manapuram/spotify-clone-html-css.git
 
